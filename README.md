@@ -1,6 +1,6 @@
 ### NMAP aracını daha efektif kullanabilmek için tüyoların olduğu GitHub Repo'su.
 #### https://github.com/Ignitetechnologies/Nmap-For-Pentester
-##### [Twitter](https://twitter.com/DPUS3C/status/1544364825840652288)  [Instagram]() [LinkedIn]()
+##### [Twitter](https://twitter.com/DPUS3C/status/1544364825840652288) / [Instagram]() / [LinkedIn]()
 #####  Jul 5, 2022
 #
 
